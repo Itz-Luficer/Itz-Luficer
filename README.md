@@ -1,3 +1,5 @@
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Luficer](https://t.me/Itz_Luficer) | [![Profile views](https://komarev.com/ghpvc/?username=Itz-Luficer&label=Profile%20views)](https://github.com/Itz-Luficer) 
+
 <h3 align="left">Tools I Learning</h3>
 
 
