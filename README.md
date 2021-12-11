@@ -14,3 +14,15 @@
 <a href="https://www.postgresql.org"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
 <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
+
+**My Projects**
+
+- [SDBots Infinity](https://t.me/SDBOTs_Inifinity)
+- [TeamNatsuki](https://t.me/TeamNatsuki)
+- [TeamAnkivector](https://t.me/TeamAnkivector)
+- [Team of Shadow](https://t.me/TeamOfShadow)
+- [TeamSDBots](https://t.me/TeamSDBOTs)
+
+**Populer Repository**
+
+- [`Natsuki Group Manager`](https://Github.com/Sadew451/Natsuki)
